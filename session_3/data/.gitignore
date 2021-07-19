@@ -1,0 +1,11 @@
+
+# .gitignore file to ignore all data
+
+# Ignore all files
+*
+
+# Ignore all foulders
+*/
+
+# Except this one
+!.gitignore
